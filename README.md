@@ -215,6 +215,12 @@ Medical_Devices_KYC_Database/
 └── Medical_Devices_KYC_Database_ERD_Survey.png
 ```
 
+## Links: 
+- **Medical_Devices_KYC_MVC_Templates**
+https://github.com/RashedulHaqueRonjon/Medical_Devices_KYC_MVC_Templates
+- **Medical_Devices_KYC_Survey_Forms**
+https://github.com/RashedulHaqueRonjon/Medical_Devices_KYC_Survey_Forms
+
 ## Contact & Support
 
 For questions or issues regarding this database schema, please refer to the documentation or contact the repository maintainer.
